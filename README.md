@@ -1,2 +1,2 @@
-# Solarium-1.4
+# Solarium
 Generative Max/MSP/Jitter-patch for my composition "Investment Clizzmatology"
